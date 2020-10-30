@@ -9,7 +9,7 @@
 
 <h3>Here a little about me:</h3>
 <ul>
-  <li> :round_pushpin: I from Brazil</li>
+  <li> :round_pushpin: I'm from Brazil</li>
   <li> :computer: Typescript/Javascript and Golang programmer</li>
   <li> :wrench: Use the React and Angular Frameworks</li>
   <li> :hammer: Also work in Backend with nodeJS</li>
