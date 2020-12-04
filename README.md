@@ -10,9 +10,10 @@
 <h3>Here a little about me:</h3>
 <ul>
   <li> :round_pushpin: I'm from Brazil</li>
-  <li> :computer: Blockchain Developer</li>
-  <li> :wrench: Stack React/Angular/Typescript/Javascript/Golang/Solidity</li>
-  <li> :hammer: Also work in Backend with nodeJS</li>
+  <li> :computer: Backend Developer jr | aspiring Blockchain Developer</li>
+  <li> :rocket: Specialist Typescript/Javascript and Golang</li>
+  <li> :wrench: Also learning solidity and python </li>
+  <li> :hammer: Also basic skills in frontend with React/Angular</li>
 </ul>
 
 <details>
