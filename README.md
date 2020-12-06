@@ -11,7 +11,7 @@
 <ul>
   <li> :round_pushpin: I'm from Brazil</li>
   <li> :computer: Backend Developer jr | aspiring Blockchain Developer</li>
-  <li> :rocket: Specialist Typescript/Javascript and Golang</li>
+  <li> :rocket: Specializing in Typescript/Javascript and Golang</li>
   <li> :wrench: Also learning solidity and python </li>
   <li> :hammer: Also basic skills in frontend with React/Angular</li>
 </ul>
