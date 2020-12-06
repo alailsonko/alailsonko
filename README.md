@@ -18,7 +18,7 @@
 
 <details>
   <summary>My projects</summary>
-  [28Mansion - Backend API doc](https://socialmedia-28mansion.herokuapp.com/)<br>
+  [28Mansion - Backend API doc](https://socialmedia-28mansion.herokuapp.com/api/v1/swagger/)<br>
 </details>
 
 ![Alailson github stats](https://github-readme-stats.vercel.app/api?username=alailsonko&show_icons=true&theme=radical&count_private=true)
