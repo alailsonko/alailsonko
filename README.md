@@ -22,8 +22,10 @@
   [blog - golang](https://golang-crud.herokuapp.com/)<br>
 </details>
 
-![Alailson github stats](https://github-readme-stats.vercel.app/api?username=alailsonko&show_icons=true&theme=radical&count_private=true)
+![Alailsonko github stats](https://github-readme-stats.vercel.app/api?username=alailsonko&show_icons=true&theme=radical&count_private=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alailsonko&layout=compact&custom_title=alailsonko+languages&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Alailsonko wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alailsonko)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **JoseLucasapp/JoseLucasapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
