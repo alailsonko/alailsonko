@@ -13,7 +13,7 @@
   <li> :computer: Backend Developer jr | aspiring Blockchain Developer</li>
   <li> :rocket: Specializing in Typescript/Javascript and Golang</li>
   <li> :wrench: Also learning solidity and python </li>
-  <li> :hammer: Also basic skills in frontend with React/Angular</li>
+  <li> :hammer: Also skills in frontend with React/Angular/vuejs</li>
 </ul>
 
 <details>
