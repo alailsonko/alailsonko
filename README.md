@@ -10,7 +10,6 @@
 <h3>Here a little about me:</h3>
 <ul>
   <li> :round_pushpin: I'm from Brazil</li>
-  <li> :computer: Nodejs Specialist</li>
 </ul>
 
 <details>
